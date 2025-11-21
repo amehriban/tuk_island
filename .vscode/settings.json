@@ -1,5 +1,8 @@
 {
     "vscode-pets.theme": "autumn",
     "vscode-pets.position": "explorer",
-    "vscode-pets.petSize": "nano"
+    "vscode-pets.petSize": "nano",
+    "python-envs.defaultEnvManager": "ms-python.python:conda",
+    "python-envs.defaultPackageManager": "ms-python.python:conda",
+    "python-envs.pythonProjects": []
 }
